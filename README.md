@@ -18,6 +18,4 @@ Physical retail and cafe businesses often struggle to identify which menu items 
 
 ## ⚙️ How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/srishteax/cafe-sales-analytics.git](https://github.com/srishteax/cafe-sales-analytics.git)
+https://github.com/srishteax/cafe-sales-analytics.git
